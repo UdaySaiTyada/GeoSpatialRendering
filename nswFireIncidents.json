@@ -1,0 +1,88 @@
+{
+    "rss": {
+        "@version": "2.0",
+        "channel": {
+            "category": "Emergency Incident Information",
+            "title": "NSW Rural Fire Service Current Incidents",
+            "link": [
+                "http://www.rfs.nsw.gov.au/feeds/majorIncidents.xml",
+                {
+                    "@xmlns": "http://www.w3.org/2005/Atom",
+                    "@href": "http://www.rfs.nsw.gov.au/feeds/majorIncidents.xml",
+                    "@rel": "self",
+                    "@type": "application/rss+xml"
+                }
+            ],
+            "description": "Fire incidents as at Wed, 07 Jul 2021 10:02:25 GMT",
+            "copyright": "State of New South Wales (NSW Rural Fire Service) 2021",
+            "language": "en-AU",
+            "webMaster": "webmaster@rfs.nsw.gov.au (NSW RFS Webmaster)",
+            "generator": "NSWRFS.Feeds 1.1.4.0",
+            "docs": "https://validator.w3.org/feed/docs/rss2.html",
+            "ttl": "60",
+            "pubDate": "Wed, 07 Jul 2021 10:02:25 GMT",
+            "item": [
+                {
+                    "title": "Barham Rd, Caldwell",
+                    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+                    "description": "ALERT LEVEL: Not Applicable <br />LOCATION: 4134 Barham Rd, Caldwell, NSW 2710 <br />COUNCIL AREA: Murray River <br />STATUS: Under control <br />TYPE: Haystack fire <br />FIRE: Yes <br />SIZE: 0 ha <br />RESPONSIBLE AGENCY: Rural Fire Service <br />UPDATED: 7 Jul 2021 17:17",
+                    "category": "Not Applicable",
+                    "pubDate": "Wed, 07 Jul 2021 10:02:25 GMT",
+                    "guid": "https://incidents.rfs.nsw.gov.au/api/v1/incidents/418732",
+                    "point": {
+                        "@xmlns": "http://www.georss.org/georss",
+                        "#text": "-35.622809001 144.525526"
+                    }
+                },
+                {
+                    "title": "Castlereagh Hwy, Walgett",
+                    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+                    "description": "ALERT LEVEL: Not Applicable <br />LOCATION: Castlereagh Hwy, Walgett, NSW 2832 <br />COUNCIL AREA: Walgett <br />STATUS: Under control <br />TYPE: Structure Fire <br />FIRE: Yes <br />SIZE: 0 ha <br />RESPONSIBLE AGENCY: Rural Fire Service <br />UPDATED: 7 Jul 2021 10:11",
+                    "category": "Not Applicable",
+                    "pubDate": "Wed, 07 Jul 2021 10:02:25 GMT",
+                    "guid": "https://incidents.rfs.nsw.gov.au/api/v1/incidents/418977",
+                    "point": {
+                        "@xmlns": "http://www.georss.org/georss",
+                        "#text": "-30.163736748 148.161771297"
+                    }
+                },
+                {
+                    "title": "Elizabeth Dr, Kemps Creek",
+                    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+                    "description": "ALERT LEVEL: Not Applicable <br />LOCATION: Elizabeth Dr, Kemps Creek, NSW 2178 <br />COUNCIL AREA: Penrith <br />STATUS: Out of control <br />TYPE: MVA/Transport <br />FIRE: No <br />SIZE: 0 ha <br />RESPONSIBLE AGENCY: Rural Fire Service <br />UPDATED: 7 Jul 2021 18:51",
+                    "category": "Not Applicable",
+                    "pubDate": "Wed, 07 Jul 2021 10:02:25 GMT",
+                    "guid": "https://incidents.rfs.nsw.gov.au/api/v1/incidents/419062",
+                    "point": {
+                        "@xmlns": "http://www.georss.org/georss",
+                        "#text": "-33.880601 150.807845"
+                    }
+                },
+                {
+                    "title": "Manning Point Rd, Old Bar",
+                    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+                    "description": "ALERT LEVEL: Not Applicable <br />LOCATION: Manning Point Rd, Old Bar, NSW 2430 <br />COUNCIL AREA: Mid-Coast <br />STATUS: Under control <br />TYPE: MVA/Transport <br />FIRE: No <br />SIZE: 0 ha <br />RESPONSIBLE AGENCY: Rural Fire Service <br />UPDATED: 7 Jul 2021 19:15",
+                    "category": "Not Applicable",
+                    "pubDate": "Wed, 07 Jul 2021 10:02:25 GMT",
+                    "guid": "https://incidents.rfs.nsw.gov.au/api/v1/incidents/419063",
+                    "point": {
+                        "@xmlns": "http://www.georss.org/georss",
+                        "#text": "-31.965457 152.551438"
+                    }
+                },
+                {
+                    "title": "Pacific Hwy, Clothiers Creek",
+                    "link": "http://www.rfs.nsw.gov.au/fire-information/fires-near-me",
+                    "description": "ALERT LEVEL: Not Applicable <br />LOCATION: Pacific Hwy, Clothiers Creek, NSW 2484 <br />COUNCIL AREA: Tweed <br />STATUS: Out of control <br />TYPE: Vehicle/Equipment Fire <br />FIRE: Yes <br />SIZE: 0 ha <br />RESPONSIBLE AGENCY: Rural Fire Service <br />UPDATED: 7 Jul 2021 17:26",
+                    "category": "Not Applicable",
+                    "pubDate": "Wed, 07 Jul 2021 10:02:25 GMT",
+                    "guid": "https://incidents.rfs.nsw.gov.au/api/v1/incidents/419055",
+                    "point": {
+                        "@xmlns": "http://www.georss.org/georss",
+                        "#text": "-28.330385 153.519967001"
+                    }
+                }
+            ]
+        }
+    }
+}

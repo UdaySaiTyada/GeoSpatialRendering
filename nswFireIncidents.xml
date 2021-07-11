@@ -1,0 +1,71 @@
+<rss version="2.0">
+<channel>
+<category>Emergency Incident Information</category>
+<title>NSW Rural Fire Service Current Incidents</title>
+<link>http://www.rfs.nsw.gov.au/feeds/majorIncidents.xml</link>
+<description>Fire incidents as at Wed, 07 Jul 2021 10:02:25 GMT</description>
+<copyright>State of New South Wales (NSW Rural Fire Service) 2021</copyright>
+<language>en-AU</language>
+<webMaster>webmaster@rfs.nsw.gov.au (NSW RFS Webmaster)</webMaster>
+<generator>NSWRFS.Feeds 1.1.4.0</generator>
+<docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+<ttl>60</ttl>
+<pubDate>Wed, 07 Jul 2021 10:02:25 GMT</pubDate>
+<link xmlns="http://www.w3.org/2005/Atom" href="http://www.rfs.nsw.gov.au/feeds/majorIncidents.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Barham Rd, Caldwell</title>
+<link>http://www.rfs.nsw.gov.au/fire-information/fires-near-me</link>
+<description>
+<![CDATA[ ALERT LEVEL: Not Applicable <br />LOCATION: 4134 Barham Rd, Caldwell, NSW 2710 <br />COUNCIL AREA: Murray River <br />STATUS: Under control <br />TYPE: Haystack fire <br />FIRE: Yes <br />SIZE: 0 ha <br />RESPONSIBLE AGENCY: Rural Fire Service <br />UPDATED: 7 Jul 2021 17:17 ]]>
+</description>
+<category>Not Applicable</category>
+<pubDate>Wed, 07 Jul 2021 10:02:25 GMT</pubDate>
+<guid>https://incidents.rfs.nsw.gov.au/api/v1/incidents/418732</guid>
+<point xmlns="http://www.georss.org/georss">-35.622809001 144.525526</point>
+</item>
+<item>
+<title>Castlereagh Hwy, Walgett</title>
+<link>http://www.rfs.nsw.gov.au/fire-information/fires-near-me</link>
+<description>
+<![CDATA[ ALERT LEVEL: Not Applicable <br />LOCATION: Castlereagh Hwy, Walgett, NSW 2832 <br />COUNCIL AREA: Walgett <br />STATUS: Under control <br />TYPE: Structure Fire <br />FIRE: Yes <br />SIZE: 0 ha <br />RESPONSIBLE AGENCY: Rural Fire Service <br />UPDATED: 7 Jul 2021 10:11 ]]>
+</description>
+<category>Not Applicable</category>
+<pubDate>Wed, 07 Jul 2021 10:02:25 GMT</pubDate>
+<guid>https://incidents.rfs.nsw.gov.au/api/v1/incidents/418977</guid>
+<point xmlns="http://www.georss.org/georss">-30.163736748 148.161771297</point>
+</item>
+<item>
+<title>Elizabeth Dr, Kemps Creek</title>
+<link>http://www.rfs.nsw.gov.au/fire-information/fires-near-me</link>
+<description>
+<![CDATA[ ALERT LEVEL: Not Applicable <br />LOCATION: Elizabeth Dr, Kemps Creek, NSW 2178 <br />COUNCIL AREA: Penrith <br />STATUS: Out of control <br />TYPE: MVA/Transport <br />FIRE: No <br />SIZE: 0 ha <br />RESPONSIBLE AGENCY: Rural Fire Service <br />UPDATED: 7 Jul 2021 18:51 ]]>
+</description>
+<category>Not Applicable</category>
+<pubDate>Wed, 07 Jul 2021 10:02:25 GMT</pubDate>
+<guid>https://incidents.rfs.nsw.gov.au/api/v1/incidents/419062</guid>
+<point xmlns="http://www.georss.org/georss">-33.880601 150.807845</point>
+</item>
+<item>
+<title>Manning Point Rd, Old Bar</title>
+<link>http://www.rfs.nsw.gov.au/fire-information/fires-near-me</link>
+<description>
+<![CDATA[ ALERT LEVEL: Not Applicable <br />LOCATION: Manning Point Rd, Old Bar, NSW 2430 <br />COUNCIL AREA: Mid-Coast <br />STATUS: Under control <br />TYPE: MVA/Transport <br />FIRE: No <br />SIZE: 0 ha <br />RESPONSIBLE AGENCY: Rural Fire Service <br />UPDATED: 7 Jul 2021 19:15 ]]>
+</description>
+<category>Not Applicable</category>
+<pubDate>Wed, 07 Jul 2021 10:02:25 GMT</pubDate>
+<guid>https://incidents.rfs.nsw.gov.au/api/v1/incidents/419063</guid>
+<point xmlns="http://www.georss.org/georss">-31.965457 152.551438</point>
+</item>
+<item>
+<title>Pacific Hwy, Clothiers Creek</title>
+<link>http://www.rfs.nsw.gov.au/fire-information/fires-near-me</link>
+<description>
+<![CDATA[ ALERT LEVEL: Not Applicable <br />LOCATION: Pacific Hwy, Clothiers Creek, NSW 2484 <br />COUNCIL AREA: Tweed <br />STATUS: Out of control <br />TYPE: Vehicle/Equipment Fire <br />FIRE: Yes <br />SIZE: 0 ha <br />RESPONSIBLE AGENCY: Rural Fire Service <br />UPDATED: 7 Jul 2021 17:26 ]]>
+</description>
+<category>Not Applicable</category>
+<pubDate>Wed, 07 Jul 2021 10:02:25 GMT</pubDate>
+<guid>https://incidents.rfs.nsw.gov.au/api/v1/incidents/419055</guid>
+<point xmlns="http://www.georss.org/georss">-28.330385 153.519967001</point>
+</item>
+</channel>
+</rss>
